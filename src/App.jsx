@@ -5,7 +5,7 @@ import './App.css';
 import NavBarMain from './components/navbar/NavBarMain';
 
 // Hero Section
-import HeroMain from './components/heroSection/heroMain';
+import HeroMain from './components/heroSection/HeroMain';
 import HeroGradient from './components/heroSection/HeroGradient';
 import SubHeroSec from './components/heroSection/SubHeroSec';
 
