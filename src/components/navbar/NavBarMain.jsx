@@ -12,7 +12,8 @@ function NavBarMain() {
   };
 
   return (
-    <nav className="max-w-[1300px] mx-auto px-4 w-full fixed left-[50%] -translate-x-[50%] z-20 flex gap-4 mt-2">
+    <nav className="max-w-[1300px] mx-auto px-4 w-full fixed lg:left-[50%] lg:-translate-x-[50%] left-0 translate-x-0 z-20 flex gap-4 mt-2">
+
       <div className="flex justify-between w-full max-w-[1200px] mx-auto bg-black items-center p-6 rounded-r-full rounded-l-full border-[0.5px] border-orange-200">
         <NavBarLogo />
 
